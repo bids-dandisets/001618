@@ -1,0 +1,19 @@
+{
+    "Name": "DataJoint fractal analysis workflow",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This repository contains an example NWB file containing the fractal dimension value calculated from a neuron in the MICrONS dataset in Boss DB.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Reimer, Marike"
+    ],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.13.0",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
